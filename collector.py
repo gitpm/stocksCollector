@@ -5,7 +5,7 @@ from influxdb_client import InfluxDBClient, Point
 from influxdb_client.write_api import SYNCHRONOUS
 
 # ---------------- CONFIG ----------------
-API_KEY = "CVG1SDUL9FOWBCYV"
+API_KEY = "XXZFVQSSKHADM5UP"
 
 SYMBOLS = ["AAPL", "MSFT", "SAP.DE"]
 
