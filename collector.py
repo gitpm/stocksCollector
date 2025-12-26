@@ -5,12 +5,12 @@ from influxdb_client import InfluxDBClient, Point
 from influxdb_client.write_api import SYNCHRONOUS
 
 # ---------------- CONFIG ----------------
-API_KEY = "HIER_IHREN_ALPHA_VANTAGE_KEY_EINTRAGEN"
+API_KEY = "CVG1SDUL9FOWBCYV"
 
 SYMBOLS = ["AAPL", "MSFT", "SAP.DE"]
 
 INFLUX_URL = "https://eu-central-1-1.aws.cloud2.influxdata.com"
-INFLUX_TOKEN = "CVG1SDUL9FOWBCYV"
+INFLUX_TOKEN = "9-c-iCCeM-uqY9CoYFJ7D_k_KR1fBlpYAkLSDCbGwr8C8J_A_RGo7M7lJBs3_p1miaIytpVsoPCEUvTl250kqw=="
 ORG = "DEV"
 BUCKET = "stocks"
 # ---------------------------------------
