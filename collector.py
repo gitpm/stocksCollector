@@ -6,7 +6,7 @@ from datetime import datetime
 API_KEY = "<ALPHA_VANTAGE_KEY>"
 SYMBOLS = ["AAPL", "MSFT", "SAP.DE"]
 
-INFLUX_URL = "https://eu-central-1-1.aws.cloud2.influxdata.com/orgs/b6f47b8d112fc919"
+INFLUX_URL = "https://eu-central-1-1.aws.cloud2.influxdata.com"
 INFLUX_TOKEN = "CVG1SDUL9FOWBCYV"
 ORG = "DEV"
 BUCKET = "stocks"
